@@ -1,4 +1,4 @@
-# Simple Calculator using gRPC and Python wrapped in Docker
+# Simple Calculator using gRPC & Python wrapped in Docker
 
 Simple POC of calculator that demonstrates communication between Docker containers using gRPC and Protobuf.
 
