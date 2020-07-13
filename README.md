@@ -1,6 +1,7 @@
-# Simple Calculator using gRPC and Python wrapped in Docker.
+# Simple Calculator using gRPC and Python wrapped in Docker
 
 Simple POC of calculator that demonstrates communication between Docker containers using gRPC and Protobuf.
+
 
 
 ## Quick start
@@ -10,6 +11,7 @@ git clone https://github.com/ashylo/calculator-grpc-docker.git
 cd calculator-grpc-docker
 docker-compose up
 ```
+
 
 
 ## Project structure
