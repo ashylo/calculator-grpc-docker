@@ -1,0 +1,5 @@
+FROM oaklabs/grpcio-tools:python3.7.0-1.26.0
+ADD . /calculator
+WORKDIR /calculator/calculator_client
+RUN pip install -r requirements.txt
+CMD ["python", "calculator_client.py"]
