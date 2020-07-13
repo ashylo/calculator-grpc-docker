@@ -1,7 +1,6 @@
 # Simple Calculator using Python & gRPC
 
-Simple POC of calculator that demonstrates communication between Docker containers using gRPC and Protobuf.
-
+Simple POC that demonstrates communication between Docker containers using gRPC and Protobuf.
 
 
 ## Quick start
